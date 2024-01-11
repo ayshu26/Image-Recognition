@@ -1,0 +1,6 @@
+function capture(){
+
+}
+function check(){
+    
+}
